@@ -85,11 +85,12 @@ Open in your browser at `http://localhost:8501`.
 ## 📸 Screenshots
 
 # Upload & Ask                                                         
-| ![upload](![chat1](https://github.com/user-attachments/assets/2ff4160d-d5be-4092-a6e1-54d26eb60b3b))
+| ![upload](![chat1](![chat1](https://github.com/user-attachments/assets/5bfd6076-ec90-4895-ba2c-3b9c99f671e7)))
 # Chat Interface 
-| ![chat](https://via.placeholder.com/400x250?text=Ask+Questions) |
+| ![chat](![chat2](https://github.com/user-attachments/assets/d6074b78-ea57-4982-a6e5-2c432919ba4f)) |
 # langfuse 
-| ![langfuse] (![chatbot2](https://github.com/user-attachments/assets/63f8ff7b-72db-4dbe-a4d4-40d0b8cf516c)) |
+| ![langfuse] (![chatbot2](![![chatbot2](https://github.com/user-attachments/assets/9d5dd5ff-8d16-4a22-9188-6098d795f8e2)
+]())) |
 ---
 
 ## 📁 Project Structure
