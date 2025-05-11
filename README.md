@@ -58,9 +58,6 @@ LANGFUSE_PUBLIC_KEY=your_langfuse_public_key
 LANGFUSE_SECRET_KEY=your_langfuse_secret_key
 LANGFUSE_HOST=https://cloud.langfuse.com  # Optional
 ```
-
-> ⚠️ **Note:** Don't commit your `.env` file. Add it to `.gitignore`!
-
 ---
 
 ## ▶️ How to Run
